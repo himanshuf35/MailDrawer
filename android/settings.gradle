@@ -1,0 +1,3 @@
+rootProject.name = 'ReactMail'
+
+include ':app'

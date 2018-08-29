@@ -1,0 +1,92 @@
+{
+    "Inbox":["Primary","Social","Promotion"],
+    "Primary":[
+        {
+            "From":"Friend",
+            "Subject":"Regarding react-native",
+            "date":"12/07/2018"
+        },
+        {
+            "From":"Office",
+            "Subject":"Regarding Angular",
+            "date":"11/07/2018"
+        },
+        {
+            "From":"BestFriend",
+            "Subject":"Regarding training session 2018",
+            "date":"10/07/2018"
+        }
+    ],
+    "Social":[
+        {
+            "From":"Facebook",
+            "Subject":"Person with some name commented on your post",
+            "date":"12/07/2018"
+        },
+        {
+            "From":"Instagram",
+            "Subject":"You have got 20 views on your story",
+            "date":"11/07/2018"
+        },
+        {
+            "From":"Twitter",
+            "Subject":"Some Recent hot tweets",
+            "date":"10/07/2018"
+        }
+    ],
+    "Promotion":[
+        {
+            "From":"Flipkart",
+            "Subject":"Bumper Offers!",
+            "date":"15/07/2018"
+        },
+        {
+            "From":"Amazon",
+            "Subject":"Order Comfirmation",
+            "date":"12/07/2018"
+        },
+        {
+            "From":"Ebay",
+            "Subject":"Fall in the price of Graphic Card",
+            "date":"09/07/2018"
+        }
+    ],
+    "Sent":[
+        {
+            "To":"Brother",
+            "Subject":"Documents",
+            "date":"09/07/2018"
+        },
+        {
+            "To":"Manager",
+            "Subject":"Application for Leave",
+            "date":"07/07/2018"
+        
+        },
+        {
+            "To":"Company xyz",
+            "Subject":"Expenses related to office work",
+            "date":"05/07/2018"
+
+        }
+    ],
+    "Outbox":[
+        {
+            "To":"Friend",
+            "Subject":"Plan for an adventure trip",
+            "date":"10/07/2018"
+        },
+        {
+            "To":"Manager",
+            "Subject":"Application for Leave",
+            "date":"07/07/2018"
+        
+        },
+        {
+            "To":"Company xyz",
+            "Subject":"Expenses related to office work",
+            "date":"05/07/2018"
+
+        }
+    ]
+}
